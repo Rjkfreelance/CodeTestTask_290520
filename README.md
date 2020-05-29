@@ -38,4 +38,5 @@ ledStatus LED Status การทำงานบอร์ด ติด/ดับ
 หมายุเหตุ 
  Version นี้ยังไม่มีการตรวจสอบ กับ DataBase Server ยังไม่มีการเก็บ Log ใน Server 
   ต้องเขียน เงื่อนไข เพิ่ม Check เมื่อ Database Server พร้อม เป็นขั้นต่อไป 
-
+![img](https://iotfmx.com/imgtest/test1_29.png)
+![img](https://iotfmx.com/imgtest/test2_29.png)
